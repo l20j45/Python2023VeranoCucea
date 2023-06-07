@@ -8,10 +8,6 @@ print("Vas a pagar")
     """
     
  # CONCATENACION   
-print("las manzanas estas en : " + str(precioDeManzanas) +"y fueron : " + str(cantidaDeManzanas))
-print("las manzanas estas en : " , precioDeManzanas , "y fueron : " + str(cantidaDeManzanas))
 print(f"las manzanas estas en : {precioDeManzanas} y fueron : {cantidaDeManzanas}")
-
-
 print("y fueron : " + str(cantidaDeManzanas))
 print("total a pagar : " + str(precioDeManzanas*cantidaDeManzanas))
