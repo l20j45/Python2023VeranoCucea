@@ -1,7 +1,10 @@
 descuento:float = 0
 
-cantidaDeManzanas:int = int(input("Cuantas manzanas vendieron: (si pones un 0 me salgo)"))
+
 while cantidaDeManzanas != 0:
+    cantidaDeManzanas:int = int(input("Cuantas manzanas vendieron: (si pones un 0 me salgo)"))
+    if cantidaDeManzanas == 0:
+        break
     precioDeManzanas:int = int(input("Ingresa el precio de las manzanas: "))
     name:str = input("Ingresa tu nombre: ")
     descuentoLeyenda = ''
@@ -21,4 +24,3 @@ while cantidaDeManzanas != 0:
         print(f"y el descuento fue de : {descuento} \n{descuentoLeyenda}")
         
     print(f"total a pagar : {(precioDeManzanas*cantidaDeManzanas)-descuento}")
-    cantidaDeManzanas:int = int(input("Cuantas manzanas vendieron: "))
