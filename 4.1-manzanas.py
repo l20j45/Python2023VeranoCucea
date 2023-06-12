@@ -22,3 +22,4 @@ while cantidaDeManzanas != 0:
         
     print(f"total a pagar : {(precioDeManzanas*cantidaDeManzanas)-descuento}")
     cantidaDeManzanas:int = int(input("Cuantas manzanas vendieron: "))
+print(name)
