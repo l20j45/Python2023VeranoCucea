@@ -7,7 +7,7 @@ descuento:float = 0
 
 
 while cantidaDeManzanas != 0:
-    funciones.clear()
+    clear()
     cantidaDeManzanas:int = int(input("Cuantas manzanas vendieron: (si pones un 0 me salgo)"))
     if cantidaDeManzanas == 0:
         break
