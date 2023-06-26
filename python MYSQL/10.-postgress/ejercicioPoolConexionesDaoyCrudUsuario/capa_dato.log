@@ -1,0 +1,1037 @@
+05:24:41 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:24:41 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019A9466BBE0>
+05:24:41 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x0000019A94523AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:24:41 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:24:41 PM: INFO [PoolCursor.py:22] transacction commit
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:24:41 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:24:42 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=Ashe, password=lol
+05:32:25 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:32:25 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001BC6178BBE0>
+05:32:25 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001BC61643AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:32:25 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:32:25 PM: INFO [PoolCursor.py:22] transacction commit
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:32:25 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=Ashe, password=lol
+05:33:08 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:33:08 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001CABBCA0070>
+05:33:08 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001CABB2F3AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:33:08 PM: DEBUG [UsuarioDao.py:56] Persona a insertar Usuario: idUsuario=None, username=vida, password=corazon 
+05:33:08 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:33:08 PM: INFO [PoolCursor.py:22] transacction commit
+05:33:08 PM: DEBUG [UsuarioDao.py:84] Persona a insertada 1
+05:33:08 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:33:08 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001CABB2F3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:33:08 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:33:08 PM: INFO [PoolCursor.py:22] transacction commit
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=Ashe, password=lol
+05:33:08 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:33:20 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:33:20 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001CABD56C150; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:33:20 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:33:20 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001CABD56C480; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:33:20 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:33:20 PM: INFO [PoolCursor.py:22] transacction commit
+05:33:20 PM: DEBUG [UsuarioDao.py:46] Deleting user1 (101, 'Ashe', 'lol')
+05:33:20 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:33:20 PM: INFO [PoolCursor.py:22] transacction commit
+05:33:20 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:33:20 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001CABD56C370; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:33:20 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:33:20 PM: INFO [PoolCursor.py:22] transacction commit
+05:33:20 PM: DEBUG [UsuarioDao.py:50] Deleting user2 (101, 'riot', 'propaganda')
+05:33:20 PM: DEBUG [UsuarioDao.py:74] Persona a modificada 1
+05:35:09 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:36:36 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:36:36 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DBA0C9BBE0>
+05:36:36 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001DBA0B53AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:36:36 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:36:36 PM: INFO [PoolCursor.py:22] transacction commit
+05:36:55 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:36:55 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000020F6CC4BBE0>
+05:36:55 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x0000020F6CB03AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:36:55 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:36:55 PM: INFO [PoolCursor.py:22] transacction commit
+05:37:06 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:37:06 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002800F72BBE0>
+05:37:06 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000002800F5E3AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:37:06 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:37:06 PM: INFO [PoolCursor.py:22] transacction commit
+05:37:06 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000002800F5E3AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=riot, password=propaganda
+05:37:06 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:37:37 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:37:38 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001AB3A9EBBE0>
+05:37:38 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001AB3A8A3AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:37:38 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:37:38 PM: INFO [PoolCursor.py:22] transacction commit
+05:37:38 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001AB3A8A3AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=riot, password=propaganda
+05:37:38 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:37:52 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:37:52 PM: DEBUG [ConecctionPool.py:25] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001A6BDB70B20>
+05:37:52 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:37:52 PM: DEBUG [UsuarioDao.py:56] Persona a insertar Usuario: idUsuario=None, username=sandra, password=sandra 
+05:37:52 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:37:52 PM: INFO [PoolCursor.py:22] transacction commit
+05:37:52 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:37:52 PM: DEBUG [UsuarioDao.py:84] Persona a insertada 1
+05:37:52 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:37:52 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:37:52 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:37:52 PM: INFO [PoolCursor.py:22] transacction commit
+05:37:52 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=riot, password=propaganda
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:37:52 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=103, username=sandra, password=sandra
+05:37:55 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:37:55 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:37:55 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:37:55 PM: INFO [PoolCursor.py:22] transacction commit
+05:37:55 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=cmccandie2q, password=CPtsfd57
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=riot, password=propaganda
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:37:55 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=103, username=sandra, password=sandra
+05:38:06 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:06 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:06 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:06 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:06 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:06 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:06 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:06 PM: DEBUG [UsuarioDao.py:46] Deleting user1 (99, 'cmccandie2q', 'CPtsfd57')
+05:38:06 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:06 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:06 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 1>
+05:38:06 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:06 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:06 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:06 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:06 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:06 PM: DEBUG [UsuarioDao.py:50] Deleting user2 (99, 'dark', 'souls')
+05:38:06 PM: DEBUG [UsuarioDao.py:74] Persona a modificada 1
+05:38:12 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:12 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:12 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:12 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:12 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=98, username=jharradine2p, password=ajB832OJHP
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=dark, password=souls
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=riot, password=propaganda
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:38:12 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=103, username=sandra, password=sandra
+05:38:25 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:25 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:25 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:25 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:25 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:25 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:25 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:25 PM: DEBUG [UsuarioDao.py:46] Deleting user1 (99, 'dark', 'souls')
+05:38:25 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:25 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:25 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 1>
+05:38:25 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:25 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:25 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:25 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:25 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:25 PM: DEBUG [UsuarioDao.py:50] Deleting user2 (99, 'vida', 'muerte')
+05:38:25 PM: DEBUG [UsuarioDao.py:74] Persona a modificada 1
+05:38:29 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:29 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:29 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:29 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:29 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:29 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:29 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:29 PM: DEBUG [UsuarioDao.py:37] Deleting user (98, 'jharradine2p', 'ajB832OJHP')
+05:38:29 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:29 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:29 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 1>
+05:38:29 PM: DEBUG [UsuarioDao.py:79] Persona a borrada 1
+05:38:33 PM: DEBUG [PoolCursor.py:10] __enter__() called
+05:38:33 PM: DEBUG [ConecctionPool.py:36] connection obtenida del pool: <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0> 
+05:38:33 PM: DEBUG [PoolCursor.py:16] __exit__() called
+05:38:33 PM: INFO [PoolCursor.py:22] transacction commit
+05:38:33 PM: DEBUG [ConecctionPool.py:42] Back the connection to the pool <connection object at 0x000001A6BD693890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=1, username=lault0, password=Ap4IdqB
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=2, username=aodam1, password=LmOeQV
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=4, username=cdungate3, password=h8B2qiqPvL
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=5, username=scarcass4, password=sMbaML3qDK
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=6, username=kcathesyed5, password=Tm3dqN
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=7, username=nbashford6, password=NQxiEE8SnR7Z
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=8, username=rgolston7, password=uWFZTGq
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=9, username=rtommeo8, password=0WktxWrv3
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=10, username=tdowdell9, password=Lxxajs
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=11, username=rshawcrofta, password=G3xGJaPOHO
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=12, username=tseagraveb, password=Lx36ZNyXANEA
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=13, username=ldiruggeroc, password=iHzCkD
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=14, username=fhonischd, password=8PWcxMdByi
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=16, username=bobMAlo, password=password
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=17, username=cdredgeg, password=qxUyisQpsS
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=18, username=bmcguinessh, password=DeTqCdAoG
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=19, username=bsoamesi, password=3BuenhTY
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=20, username=eeverardj, password=pUH0XdsH
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=21, username=dtillyk, password=0imkm4r
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=22, username=seddisl, password=qreG21
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=23, username=rbaeldem, password=UpUBJsmF
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=24, username=sarnaun, password=kr3BT4DcPN
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=25, username=rlabbo, password=PXfb7dou
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=26, username=dreinardp, password=e8uZmVxPA4w
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=27, username=omcpeetersq, password=9CFxadn2yDkH
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=28, username=ggippr, password=bnKxP2T2w5j
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=29, username=mkilrows, password=SOlm75QfACgN
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=30, username=eswarbrickt, password=b7863suuwvi
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=31, username=cfeyu, password=J7OZ3m6p4D
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=32, username=bstigersv, password=cUIjV7XI8
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=33, username=pbradenw, password=BoEf01m
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=34, username=tpaulatx, password=aebqDhnS7
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=35, username=hnormanselly, password=7zyMPxbY
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=36, username=hrhymez, password=FfyXMJ
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=37, username=mkirvell10, password=qQU9OeQo
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=38, username=ccominello11, password=zH4re7
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=39, username=icunnington12, password=teeUHmoeJg
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=40, username=lwhissell13, password=GLQ27zLkv7Y
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=41, username=mfenner14, password=HEX6RDfGS
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=42, username=bmapledorum15, password=2J4OpQXs
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=43, username=etroth16, password=TuiePMO9v9Ta
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=44, username=everrick17, password=yNhfg0KEqj2
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=45, username=rdestouche18, password=8FAMpGi
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=46, username=elowdeane19, password=50AYDl
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=47, username=abevan1a, password=fC9YfJlxI
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=48, username=kcrusham1b, password=5rF1jbs
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=49, username=ehoppner1c, password=HMEhZS9yxq
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=50, username=wblamires1d, password=0vLfKjR1
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=51, username=jtumbridge1e, password=PZkjhgE
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=52, username=jdallemore1f, password=lvrg2vhoMxoL
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=53, username=pjendas1g, password=WRmoMFZ1H
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=54, username=iranfield1h, password=y7qJnaN8d
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=55, username=csarch1i, password=Yv0MspNO1ibS
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=56, username=ipossell1j, password=5LHJzE
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=57, username=febbage1k, password=gTFSZMSHh2
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=58, username=hmathely1l, password=Lu1aN00k
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=59, username=blias1m, password=GunWTNz9mp
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=60, username=emcelhargy1n, password=WAMYD2wF
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=61, username=esissland1o, password=PcRdEIkzr29N
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=62, username=lsmallcombe1p, password=AR7V6u0
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=63, username=hblaszczynski1q, password=DAzQVDa
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=64, username=mgundry1r, password=krnQDxAO
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=65, username=clennon1s, password=H9YPwK
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=66, username=jhabgood1t, password=OIj8gtOtQ
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=67, username=dcockle1u, password=uvOan1QW
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=68, username=kbamforth1v, password=RiQrBFF
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=69, username=rjellicorse1w, password=AcvkxLa0ekvq
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=70, username=ckeyser1x, password=ckZ5NPq
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=71, username=ajanu1y, password=iUSrSCFTNo
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=72, username=jgoggins1z, password=NTgA0yDOG
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=73, username=kwiddall20, password=563jHB
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=74, username=shaster21, password=A6EnjUZLGVE
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=75, username=hlunn22, password=CwZFJU
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=76, username=spurviss23, password=PekhFZcBvVJ
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=77, username=spraten24, password=asAu1C
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=78, username=bpawlik25, password=n46ipDDrs
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=79, username=tsexon26, password=Vp84FObJmg
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=80, username=calbarez27, password=8eLkSY8V4
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=81, username=snacey28, password=XI016HL4D5Q
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=82, username=jmulkerrins29, password=lUUpFZv
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=83, username=lcopnell2a, password=dTYwLN
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=84, username=mfowles2b, password=jQGFGipfBhV
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=85, username=kphalip2c, password=pkDOmdkctabi
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=86, username=rgann2d, password=yF2IuI
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=87, username=kbuglass2e, password=9X8lkFF9g
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=88, username=bthacker2f, password=a3M2sTvK3l
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=89, username=jkeener2g, password=cmMoRsyONE
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=90, username=cdarbyshire2h, password=ASsv8bIjX
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=91, username=hgulley2i, password=wlicj0S
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=92, username=hpettecrew2j, password=ZFcQnz
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=93, username=estirton2k, password=OYEp6UTNvPiS
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=94, username=ibonsul2l, password=OFDpZbXfoI
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=95, username=dpeel2m, password=gYzzpYycl9
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=96, username=cyacobsohn2n, password=53XGua
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=97, username=hrallings2o, password=Dlkr415gqxm
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=99, username=vida, password=muerte
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=100, username=fgier2r, password=CVmvtS
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=101, username=riot, password=propaganda
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=102, username=vida, password=corazon
+05:38:33 PM: INFO [UsuarioDao.py:64] Usuario: idUsuario=103, username=sandra, password=sandra
+05:39:55 PM: INFO [PoolCursor.py:22] transacction commit
