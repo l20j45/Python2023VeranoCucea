@@ -1,5 +1,6 @@
 import mysql.connector
 opcionBaseDeDatos = 1
+
 def conexionBd(opcionBaseDeDatos):
     if opcionBaseDeDatos == 1 :
         #Forma local

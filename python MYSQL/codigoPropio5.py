@@ -1,10 +1,11 @@
 import funcionDeConexion
 import mysql.connector
-def interfazSql(sql,columns,table,param):
+def interfazSql(columns,table,param):
     try:
         conexion = funcionDeConexion.conexionBd(1)
         cursor = conexion.cursor()
-        cursor.execute(sql,[columns,table,param])
+        sql = f"Select {columns} from {table} where name like '{param}%'"
+        cursor.execute(sql)
         registros = cursor.fetchall()
         for registro in registros:
             print(registro)
@@ -14,4 +15,4 @@ def interfazSql(sql,columns,table,param):
         print("conexion closed")
         conexion.close()
 
-interfazSql("Select %s from %s where name like '%s%'",'name, lastname','maestro', 'd')
+interfazSql('name, lastname','maestro', 'd')
